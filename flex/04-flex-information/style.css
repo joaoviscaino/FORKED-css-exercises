@@ -16,8 +16,7 @@ img {
 
 .main-container {
   display: flex;
-  justify-items: center;
-  align-items: center;
+  justify-content: center;
   gap: 52px;
 }
 
